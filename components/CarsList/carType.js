@@ -1,0 +1,26 @@
+export default[{
+    type:'Sedan',
+    img:'../assets/sedan.png',
+    key:'1'
+},
+{
+    type:'Sports',
+    img:'../assets/sports.png',
+    key:''
+},
+{
+    type:'Suv',
+    img:'../assets/suv.png',
+    key:'2'
+},
+{
+    type:'Van',
+    img:'../assets/sports.png',
+    key:'3'
+},
+{
+    type:'Hatchback',
+    img:'../assets/hatchback.png',
+    key:'4'
+}
+]

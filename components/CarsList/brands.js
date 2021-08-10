@@ -1,0 +1,31 @@
+export default [{
+    brand:'Audi',
+    logo:'../assets/audi.png',
+    key:'1'
+},
+{
+    brand:'BMW',
+    logo:'../assets/bmw.png',
+    key:'2'
+},
+{
+    brand:'Cadilac',
+    logo:'../assets/cadillac.png',
+    key:'3'
+},
+{
+    brand:'Chery',
+    logo:'../assets/chery.png',
+    key:'4'
+},
+{
+    brand:'Ford',
+    logo :'../assets/ford.png',
+    key:'5'
+},
+{
+    brand:'Hyundai',
+    logo:'../assets/hyundai.png',
+    key:'6'
+},
+]
